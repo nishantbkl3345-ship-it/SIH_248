@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS aar_reports;
+DROP TABLE IF EXISTS timeline_events;
+DROP TABLE IF EXISTS decisions;
+DROP TABLE IF EXISTS messages;
+DROP TABLE IF EXISTS session_participants;
+DROP TABLE IF EXISTS teams;
+DROP TABLE IF EXISTS exercise_sessions;
+DROP TABLE IF EXISTS decision_options;
+DROP TABLE IF EXISTS decision_points;
+DROP TABLE IF EXISTS degradation_rules;
+DROP TABLE IF EXISTS scenario_events;
+DROP TABLE IF EXISTS information_reports;
+DROP TABLE IF EXISTS communication_channels;
+DROP TABLE IF EXISTS scenario_phases;
+DROP TABLE IF EXISTS scenarios;
+DROP TABLE IF EXISTS users;

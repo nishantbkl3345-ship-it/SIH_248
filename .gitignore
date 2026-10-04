@@ -1,0 +1,14 @@
+# secrets and local config
+.env
+.env.*
+!.env.example
+
+# build output
+/services/api/bin/
+node_modules/
+.next/
+
+# tooling
+.DS_Store
+*.log
+coverage/
